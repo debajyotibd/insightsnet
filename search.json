@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "InsightsNet",
+    "section": "",
+    "text": "A collaborative project of the Federal Ministry of Education and Research (BMBF), under the funding guideline for supporting research and development projects for theoretical, methodological and technical advancement of digital humanities (Federal Gazette of 22.07.2019)"
+  },
+  {
+    "objectID": "index.html#project-partners",
+    "href": "index.html#project-partners",
+    "title": "InsightsNet",
+    "section": "Project partners",
+    "text": "Project partners\nDr. Sabine Bartsch, Institute of Linguistics and Literary Studies, Technische Universität Darmstadt (project coordinator) | Dr. Tobias Hecking, Institute for Software Technology, DLR | Dr. Wolfgang Stille, Hessian Centre for Artificial Intelligence (hessian.AI)"
+  },
+  {
+    "objectID": "index.html#project-outline",
+    "href": "index.html#project-outline",
+    "title": "InsightsNet",
+    "section": "Project outline",
+    "text": "Project outline\nThe objective of the project is to develop and test a concept for in-depth indexing of multimodal data holdings. Above all, this should enable networking between multimodal digital objects, so that a genuine generation of knowledge based on digital collections becomes possible. On the basis of current theories and methods applied in the humanities and in information technology, the project aims to promote transdisciplinary expansion and sharing of knowledge. Such efforts have so far been hindered by the absence of networking of data holdings and a lack of possibilities for enrichment through annotation and commentary. For the purpose of testing the developed concepts, two transdisciplinary multimodal corpora (TMC) on the use cases of discourses on climate change and artificial intelligence will be compiled, manually and automatically annotated, networked and analysed. The outcome of this process will then be discussed and evaluated at expert workshops.\nBy analysing and deploying networked multimodal corpora, the project aims to develop and evaluate corpus and computational linguistics methods for compilation, annotation and analysis of multimodal corpora. The project partners aim to build a corpus centred around two topics: climate change and artificial intelligence. In the process of doing so, a combination of automatic and manual annotation methods, followed by analysis, shall be used; this should pave the way to identifying features that might serve as the foundation for semantic networking of textual and intertextual linguistic and multimodally coded concepts, which, in turn, should expand the possibility for accessing corpora comprised of textual and multimodal data. The corpus data and analysis scenarios developed in this way will be tested at expert workshops, as well as at workshops open to scientists and to any interested members of the public. Such test and evaluation seminars should allow for iterative improvement."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Team InsightsNet"
+  }
+]
