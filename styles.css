@@ -82,4 +82,53 @@ body {
 
 
 
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
 
+.team-profile {
+  flex: 1 1 45%;
+  max-width: 45%;
+  text-align: center;
+  padding: 1.5em;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 1em;
+}
+
+.linkedin-link {
+  display: inline-block;
+  margin-top: 1em;
+  color: #0077b5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.linkedin-link:hover {
+  text-decoration: underline;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 768px) {
+  .team-profile {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
+
+
+.pub-page h1.title {
+  text-align: center;
+}
